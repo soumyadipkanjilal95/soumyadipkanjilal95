@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadipkanjilal95" alt="soumyadipkanjilal95" /></a> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP** and MongoDB
 
 - 👯 I’m looking to collaborate on **Machine Learning project**
 
